@@ -1,6 +1,6 @@
 # how to delete search history
 
-[![how to delete search history](get-startted.png)](https://computersolve.com/how-to-delete-google-search-history/)
+[![how to delete search history](get-startted.png)](https://icncomputer.com/how-to-delete-google-search-history/)
 
 * On your computer, open Chrome.
 * At the top right, click More .
